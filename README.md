@@ -1,4 +1,4 @@
-# QuickFast 🚀
+# QuickFast 
 
 QuickFast is a smart travel assistant for Mumbai.
 
